@@ -1,0 +1,18 @@
+# 大きい生成物(手順書のコマンドで作り直せる)
+data/
+outputs/
+results/**/videos/
+results/**/*.log
+results/_old_*/
+
+# 実行時に自動生成されるもの
+assets/_tote_*.xml
+MUJOCO_LOG.TXT
+__pycache__/
+*.pyc
+.DS_Store
+
+# 提出用以外
+submission/report_draft.md
+submission/tote_pick_place.mp4
+scripted_check.mp4

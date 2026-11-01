@@ -1,0 +1,83 @@
+{
+ "summary": {
+  "n": 7,
+  "success_rate": 1.0,
+  "reach_rate": {
+   "1": 1.0,
+   "2": 1.0,
+   "3": 1.0,
+   "4": 1.0
+  },
+  "spill_rate": 0.0,
+  "mean_max_tilt": 0.9942857142857141,
+  "args": {
+   "ckpt": "outputs/act_tote/checkpoints/100000",
+   "scripted": false,
+   "n": 7,
+   "seed0": 10000,
+   "ensemble": null,
+   "push": 0.0,
+   "videos": 7,
+   "vw": 640,
+   "out": "results/act_100k_plain"
+  }
+ },
+ "episodes": [
+  {
+   "seed": 10000,
+   "success": true,
+   "max_stage": 4,
+   "spilled": 0,
+   "max_tilt": 1.09,
+   "steps": 475
+  },
+  {
+   "seed": 10001,
+   "success": true,
+   "max_stage": 4,
+   "spilled": 0,
+   "max_tilt": 1.16,
+   "steps": 475
+  },
+  {
+   "seed": 10002,
+   "success": true,
+   "max_stage": 4,
+   "spilled": 0,
+   "max_tilt": 0.92,
+   "steps": 464
+  },
+  {
+   "seed": 10003,
+   "success": true,
+   "max_stage": 4,
+   "spilled": 0,
+   "max_tilt": 0.87,
+   "steps": 470
+  },
+  {
+   "seed": 10004,
+   "success": true,
+   "max_stage": 4,
+   "spilled": 0,
+   "max_tilt": 1.06,
+   "steps": 470
+  },
+  {
+   "seed": 10005,
+   "success": true,
+   "max_stage": 4,
+   "spilled": 0,
+   "max_tilt": 0.97,
+   "steps": 470
+  },
+  {
+   "seed": 10006,
+   "success": true,
+   "max_stage": 4,
+   "spilled": 0,
+   "max_tilt": 0.89,
+   "steps": 467
+  }
+ ]
+}

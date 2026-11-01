@@ -1,0 +1,426 @@
+{
+ "summary": {
+  "n": 50,
+  "success_rate": 1.0,
+  "reach_rate": {
+   "1": 1.0,
+   "2": 1.0,
+   "3": 1.0,
+   "4": 1.0
+  },
+  "spill_rate": 0.0,
+  "mean_max_tilt": 0.8939999999999999,
+  "args": {
+   "ckpt": null,
+   "scripted": true,
+   "n": 50,
+   "seed0": 10000,
+   "ensemble": null,
+   "push": 0.0,
+   "videos": 2,
+   "out": "results/scripted"
+  }
+ },
+ "episodes": [
+  {
+   "seed": 10000,
+   "success": true,
+   "max_stage": 4,
+   "spilled": 0,
+   "max_tilt": 0.94,
+   "steps": 471
+  },
+  {
+   "seed": 10001,
+   "success": true,
+   "max_stage": 4,
+   "spilled": 0,
+   "max_tilt": 1.09,
+   "steps": 471
+  },
+  {
+   "seed": 10002,
+   "success": true,
+   "max_stage": 4,
+   "spilled": 0,
+   "max_tilt": 1.03,
+   "steps": 471
+  },
+  {
+   "seed": 10003,
+   "success": true,
+   "max_stage": 4,
+   "spilled": 0,
+   "max_tilt": 0.86,
+   "steps": 471
+  },
+  {
+   "seed": 10004,
+   "success": true,
+   "max_stage": 4,
+   "spilled": 0,
+   "max_tilt": 1.06,
+   "steps": 471
+  },
+  {
+   "seed": 10005,
+   "success": true,
+   "max_stage": 4,
+   "spilled": 0,
+   "max_tilt": 0.73,
+   "steps": 472
+  },
+  {
+   "seed": 10006,
+   "success": true,
+   "max_stage": 4,
+   "spilled": 0,
+   "max_tilt": 0.91,
+   "steps": 472
+  },
+  {
+   "seed": 10007,
+   "success": true,
+   "max_stage": 4,
+   "spilled": 0,
+   "max_tilt": 0.8,
+   "steps": 471
+  },
+  {
+   "seed": 10008,
+   "success": true,
+   "max_stage": 4,
+   "spilled": 0,
+   "max_tilt": 1.17,
+   "steps": 471
+  },
+  {
+   "seed": 10009,
+   "success": true,
+   "max_stage": 4,
+   "spilled": 0,
+   "max_tilt": 0.65,
+   "steps": 472
+  },
+  {
+   "seed": 10010,
+   "success": true,
+   "max_stage": 4,
+   "spilled": 0,
+   "max_tilt": 0.94,
+   "steps": 472
+  },
+  {
+   "seed": 10011,
+   "success": true,
+   "max_stage": 4,
+   "spilled": 0,
+   "max_tilt": 0.7,
+   "steps": 472
+  },
+  {
+   "seed": 10012,
+   "success": true,
+   "max_stage": 4,
+   "spilled": 0,
+   "max_tilt": 0.85,
+   "steps": 472
+  },
+  {
+   "seed": 10013,
+   "success": true,
+   "max_stage": 4,
+   "spilled": 0,
+   "max_tilt": 0.95,
+   "steps": 471
+  },
+  {
+   "seed": 10014,
+   "success": true,
+   "max_stage": 4,
+   "spilled": 0,
+   "max_tilt": 0.71,
+   "steps": 472
+  },
+  {
+   "seed": 10015,
+   "success": true,
+   "max_stage": 4,
+   "spilled": 0,
+   "max_tilt": 0.99,
+   "steps": 472
+  },
+  {
+   "seed": 10016,
+   "success": true,
+   "max_stage": 4,
+   "spilled": 0,
+   "max_tilt": 0.79,
+   "steps": 472
+  },
+  {
+   "seed": 10017,
+   "success": true,
+   "max_stage": 4,
+   "spilled": 0,
+   "max_tilt": 0.92,
+   "steps": 471
+  },
+  {
+   "seed": 10018,
+   "success": true,
+   "max_stage": 4,
+   "spilled": 0,
+   "max_tilt": 0.85,
+   "steps": 472
+  },
+  {
+   "seed": 10019,
+   "success": true,
+   "max_stage": 4,
+   "spilled": 0,
+   "max_tilt": 1.12,
+   "steps": 471
+  },
+  {
+   "seed": 10020,
+   "success": true,
+   "max_stage": 4,
+   "spilled": 0,
+   "max_tilt": 1.0,
+   "steps": 472
+  },
+  {
+   "seed": 10021,
+   "success": true,
+   "max_stage": 4,
+   "spilled": 0,
+   "max_tilt": 0.84,
+   "steps": 472
+  },
+  {
+   "seed": 10022,
+   "success": true,
+   "max_stage": 4,
+   "spilled": 0,
+   "max_tilt": 0.8,
+   "steps": 472
+  },
+  {
+   "seed": 10023,
+   "success": true,
+   "max_stage": 4,
+   "spilled": 0,
+   "max_tilt": 0.72,
+   "steps": 472
+  },
+  {
+   "seed": 10024,
+   "success": true,
+   "max_stage": 4,
+   "spilled": 0,
+   "max_tilt": 0.69,
+   "steps": 472
+  },
+  {
+   "seed": 10025,
+   "success": true,
+   "max_stage": 4,
+   "spilled": 0,
+   "max_tilt": 0.95,
+   "steps": 471
+  },
+  {
+   "seed": 10026,
+   "success": true,
+   "max_stage": 4,
+   "spilled": 0,
+   "max_tilt": 0.9,
+   "steps": 471
+  },
+  {
+   "seed": 10027,
+   "success": true,
+   "max_stage": 4,
+   "spilled": 0,
+   "max_tilt": 0.89,
+   "steps": 471
+  },
+  {
+   "seed": 10028,
+   "success": true,
+   "max_stage": 4,
+   "spilled": 0,
+   "max_tilt": 1.04,
+   "steps": 471
+  },
+  {
+   "seed": 10029,
+   "success": true,
+   "max_stage": 4,
+   "spilled": 0,
+   "max_tilt": 0.71,
+   "steps": 472
+  },
+  {
+   "seed": 10030,
+   "success": true,
+   "max_stage": 4,
+   "spilled": 0,
+   "max_tilt": 1.08,
+   "steps": 472
+  },
+  {
+   "seed": 10031,
+   "success": true,
+   "max_stage": 4,
+   "spilled": 0,
+   "max_tilt": 0.98,
+   "steps": 471
+  },
+  {
+   "seed": 10032,
+   "success": true,
+   "max_stage": 4,
+   "spilled": 0,
+   "max_tilt": 1.21,
+   "steps": 471
+  },
+  {
+   "seed": 10033,
+   "success": true,
+   "max_stage": 4,
+   "spilled": 0,
+   "max_tilt": 0.66,
+   "steps": 472
+  },
+  {
+   "seed": 10034,
+   "success": true,
+   "max_stage": 4,
+   "spilled": 0,
+   "max_tilt": 0.77,
+   "steps": 471
+  },
+  {
+   "seed": 10035,
+   "success": true,
+   "max_stage": 4,
+   "spilled": 0,
+   "max_tilt": 0.77,
+   "steps": 472
+  },
+  {
+   "seed": 10036,
+   "success": true,
+   "max_stage": 4,
+   "spilled": 0,
+   "max_tilt": 0.64,
+   "steps": 472
+  },
+  {
+   "seed": 10037,
+   "success": true,
+   "max_stage": 4,
+   "spilled": 0,
+   "max_tilt": 0.82,
+   "steps": 472
+  },
+  {
+   "seed": 10038,
+   "success": true,
+   "max_stage": 4,
+   "spilled": 0,
+   "max_tilt": 0.82,
+   "steps": 471
+  },
+  {
+   "seed": 10039,
+   "success": true,
+   "max_stage": 4,
+   "spilled": 0,
+   "max_tilt": 1.12,
+   "steps": 471
+  },
+  {
+   "seed": 10040,
+   "success": true,
+   "max_stage": 4,
+   "spilled": 0,
+   "max_tilt": 0.91,
+   "steps": 471
+  },
+  {
+   "seed": 10041,
+   "success": true,
+   "max_stage": 4,
+   "spilled": 0,
+   "max_tilt": 0.91,
+   "steps": 472
+  },
+  {
+   "seed": 10042,
+   "success": true,
+   "max_stage": 4,
+   "spilled": 0,
+   "max_tilt": 0.93,
+   "steps": 472
+  },
+  {
+   "seed": 10043,
+   "success": true,
+   "max_stage": 4,
+   "spilled": 0,
+   "max_tilt": 0.8,
+   "steps": 471
+  },
+  {
+   "seed": 10044,
+   "success": true,
+   "max_stage": 4,
+   "spilled": 0,
+   "max_tilt": 0.89,
+   "steps": 471
+  },
+  {
+   "seed": 10045,
+   "success": true,
+   "max_stage": 4,
+   "spilled": 0,
+   "max_tilt": 0.91,
+   "steps": 472
+  },
+  {
+   "seed": 10046,
+   "success": true,
+   "max_stage": 4,
+   "spilled": 0,
+   "max_tilt": 1.09,
+   "steps": 471
+  },
+  {
+   "seed": 10047,
+   "success": true,
+   "max_stage": 4,
+   "spilled": 0,
+   "max_tilt": 1.0,
+   "steps": 472
+  },
+  {
+   "seed": 10048,
+   "success": true,
+   "max_stage": 4,
+   "spilled": 0,
+   "max_tilt": 0.83,
+   "steps": 472
+  },
+  {
+   "seed": 10049,
+   "success": true,
+   "max_stage": 4,
+   "spilled": 0,
+   "max_tilt": 0.96,
+   "steps": 472
+  }
+ ]
+}
